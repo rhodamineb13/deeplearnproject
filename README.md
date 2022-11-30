@@ -9,7 +9,7 @@ Given 500 labeled images (cat/dog), predict whether the animal is a cat or dog i
 4. [numpy](https://numpy.org/)
 
 # Models used
-Input = (150, 150, 3) -- images of 150px \times 150 px, 3 channels (RGB)
+Input = (150, 150, 3) -- images of 150px $\times$ 150 px, 3 channels (RGB)
 
 Sequential model:
 1. 2-Dimensional Convolutional Layer (filters = 8, kernel size = (3, 3), strides = (3, 3), activation = relu), 
