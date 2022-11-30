@@ -23,6 +23,8 @@ Sequential model:
 9. Dense Layer (8 neurons, activation = 'relu'),
 10. Dense Layer (1 neuron, activation = 'sigmoid')
 
-Optimizers = AdaM
-Loss = Binary Crossentropy Loss
+Optimizers = AdaM,
+
+Loss = Binary Crossentropy Loss,
+
 Metrics = Accuracy
