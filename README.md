@@ -2,7 +2,6 @@
 This is a deep learning project on predicting whether the animal in an image is a cat or a dog.
 Given 500 labeled images (cat/dog), predict whether the animal is a cat or dog in the test dataset (which contains 1000 unlabelled images to be predicted).
 
-Due to limitation of upload size, I will just give the link of the dataset [here](https://www.kaggle.com/c/dogs-vs-cats)
 
 # Documentation
 1. [tensorflow](https://www.tensorflow.org/)
